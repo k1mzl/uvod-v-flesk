@@ -1,1 +1,1 @@
-# uvod-v-flesk
+print ("mali svet")
